@@ -6,4 +6,4 @@
 以glossy材質舉例，在表面上取樣時，單獨使用傳統的 sample by light 或 sample by BSDF  
 得到的效果都差強人意，於是就兩個方法都使用再根據比例做調整。  
 * Example
-  ![image]()
+  ![image](https://github.com/zz4634266/Multiple-Importance-Sampling-Practice/blob/main/mis.png?raw=true)
