@@ -10,6 +10,7 @@ MIS可減少傳統的複雜計算且融合不同的採樣策略使計算出來�
 ## Result
 使用GGX的方法來計算glossy材質的PDF(機率分布函數)，再混和兩種採樣方法:  
 ### 參數設置
-* 由上至下的glossy板子係數(0.05,0.1,0.15,0.20)
-* 由左至右的光源半徑與亮度(5-8, 10-4, 20-2, 40-1)  
+* 最上排為光源
+* 由上至下從第二列開始的glossy板子係數(0.05,0.1,0.15,0.20)
+* 由左至右的光源半徑與亮度(5-8, 10-4, 20-2, 40-1)
 ![image](https://github.com/zz4634266/Multiple-Importance-Sampling-Practice/blob/main/mis.png?raw=true)
