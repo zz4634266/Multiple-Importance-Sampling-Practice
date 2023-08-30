@@ -12,5 +12,5 @@ MIS可減少傳統的複雜計算且融合不同的採樣策略使計算出來�
 ### 參數設置
 * 最上排為光源
 * 由上至下從第二列開始的glossy板子係數(0.05,0.1,0.15,0.20)
-* 由左至右的光源半徑與亮度(5-8, 10-4, 20-2, 40-1)
+* 由左至右的光源半徑與亮度(5-8, 10-4, 20-2, 40-1)  
 ![image](https://github.com/zz4634266/Multiple-Importance-Sampling-Practice/blob/main/mis.png?raw=true)
